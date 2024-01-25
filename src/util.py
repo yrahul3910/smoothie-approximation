@@ -103,7 +103,7 @@ def get_smoothness(data: Data, n_class: int, wfo: bool, smote: bool, ultrasample
     y_sample = data.y_train[idx]
     model.fit(x_sample, y_sample)
     
-    tree = Fastmap(data.x_train)._recurse()
+    tree = Fastmap(x_sample)._recurse()
     betas = []
     stack = []
     
