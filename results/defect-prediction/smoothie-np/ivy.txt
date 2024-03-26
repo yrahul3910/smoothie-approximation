@@ -1,0 +1,375 @@
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.0034533555241425392
+[run_experiment] Getting model
+[main] Accuracy: [0.677618069815195]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.014969548869115718
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'normalize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 765.9973771537178
+[run_experiment] Getting model
+[main] Accuracy: [0.14414414414414414]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'normalize', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 2365.1803231644108
+[run_experiment] Getting model
+[main] Accuracy: [0.0888888888888889]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.05, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.00018218595033425242
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.008915528478169305
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.1, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.011878000436709134
+[run_experiment] Getting model
+[main] Accuracy: [0.9249617151607963]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 0.2, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 1.5370757787175346
+[run_experiment] Getting model
+[main] Accuracy: [0.3492063492063492]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.2, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 87.64826526210558
+[run_experiment] Getting model
+[main] Accuracy: [0.16766467065868262]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.000783192332033891
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 2, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.0010858235380156
+[run_experiment] Getting model
+[main] Accuracy: [0.34594594594594597]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.1, 'min_samples_leaf': 1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.008319213746167137
+[run_experiment] Getting model
+[main] Accuracy: [0.8271186440677967]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.2, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.024578760769333415
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.1, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 280.8197001649287
+[run_experiment] Getting model
+[main] Accuracy: [0.3440860215053763]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 0.05, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.018929400496787353
+[run_experiment] Getting model
+[main] Accuracy: [0.8356643356643356]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.2, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.14728087085970404
+[run_experiment] Getting model
+[main] Accuracy: [0.8810289389067525]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.6377117529160617
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 0.2, 'min_samples_leaf': 1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 3.028550157234818
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 28.13460425862535
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.0030975298839031207
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.005132621360525883
+[run_experiment] Getting model
+[main] Accuracy: [0.8878357030015799]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 2, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.012262515850754316
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 0.2, 'min_samples_leaf': 2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.02101887590198746
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.14742759722880466
+[run_experiment] Getting model
+[main] Accuracy: [0.3440860215053763]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.0009445153676855085
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.2, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.0017120156605834572
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.737005211186306
+[run_experiment] Getting model
+[main] Accuracy: [0.8159722222222222]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 2.203394851041693
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.1, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 182.15412347799753
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.0026633783412796826
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.02375456195317449
+[run_experiment] Getting model
+[main] Accuracy: [0.9298780487804877]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.05, 'min_samples_leaf': 2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.14470795718129958
+[run_experiment] Getting model
+[main] Accuracy: [0.11320754716981132]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 2, 'min_samples_split': 0.1, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.6257642375615826
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 142.7257665309575
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.0004076897178298054
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 0.1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.7085388083793502
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 1.6177379101549516
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.1, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 3.1802496110899945
+[run_experiment] Getting model
+[main] Accuracy: [0.07058823529411765]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.2, 'min_samples_leaf': 0.1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.0028293298385069516
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 2, 'min_samples_split': 2, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.020962505780597024
+[run_experiment] Getting model
+[main] Accuracy: [0.9406392694063926]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'normalize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 199.05171490540465
+[run_experiment] Getting model
+[main] Accuracy: [0.05714285714285715]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 0.05, 'min_samples_leaf': 0.1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.013837122077594393
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 0.2, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.019974255804464568
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 0.1, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.20868584302736443
+[run_experiment] Getting model
+[main] Accuracy: [0.20408163265306123]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 356.85314323348445
+[run_experiment] Getting model
+[main] Accuracy: [0.6072186836518048]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.0021640714008806365
+[run_experiment] Getting model
+[main] Accuracy: [0.3529411764705882]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.029376437087205876
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.03618431172467193
+[run_experiment] Getting model
+[main] Accuracy: [0.19780219780219782]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.1, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 2.2898237341127587
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 6.88934357415029
+[run_experiment] Getting model
+[main] Accuracy: [0.39999999999999997]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.2, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.01450917525542969
+[run_experiment] Getting model
+[main] Accuracy: [0.326530612244898]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 2, 'min_samples_split': 0.05, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 1.704919354208384
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 2, 'min_samples_split': 0.05, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 89.69127155617721
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 102.12241747560523
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 2, 'min_samples_split': 0.05, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.0012942325027159639
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 0.2, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.00408300634177315
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.2, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.004995123457696321
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.1, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.016157599829411354
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 11.707507219577735
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.005330335245114454
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 5, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.015366274132364847
+[run_experiment] Getting model
+[main] Accuracy: [0.1846153846153846]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 2, 'min_samples_split': 0.05, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.02161697318687101
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 15.801321062506089
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 2, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 53.674186504236005
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 0.2, 'min_samples_leaf': 2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.00839731794366864
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.016142434185203485
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.05, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 45.17268279060157
+[run_experiment] Getting model
+[main] Accuracy: [0.20408163265306123]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 0.05, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 227.222628904177
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.2, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.00185380469484031
+[run_experiment] Getting model
+[main] Accuracy: [0.3440860215053763]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.2, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.008735231547926658
+[run_experiment] Getting model
+[main] Accuracy: [0.9280245022970903]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.2, 'min_samples_leaf': 0.1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.03726902204404094
+[run_experiment] Getting model
+[main] Accuracy: [0.762081784386617]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 0.05, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 91.50037754079418
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 4, 'min_samples_split': 0.1, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'normalize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 111.38009191578323
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.2, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.001973187169461128
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 2, 'min_samples_split': 0.1, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.003490601758955635
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 2, 'min_samples_split': 0.2, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.020260003604016225
+[run_experiment] Getting model
+[main] Accuracy: [0.9361702127659575]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.5196020685821957
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 3.799143942154398
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.015750660356252305
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 0.019924933649109983
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 4, 'min_samples_split': 2, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.7949100913095012
+[run_experiment] Getting model
+[main] Accuracy: [0.653225806451613]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.2, 'min_samples_leaf': 0.2, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 1.493340384163965
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 5.3907826213913355
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.004501157336662459
+[run_experiment] Getting model
+[main] Accuracy: [0.2578397212543554]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.2, 'min_samples_leaf': 0.1, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': True}
+beta: 0.004912898402514271
+[run_experiment] Getting model
+[main] Accuracy: [0.9397590361445783]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 15.746392809609159
+[run_experiment] Getting model
+[main] Accuracy: [0.20408163265306123]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 0.05, 'max_features': 'log2'}, 'learner': 'dt', 'preprocessor': 'maxabs', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 30.837186710130943
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 5, 'min_samples_split': 0.05, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': False}
+beta: 97.93980338343925
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Config: {'learner_params': {'criterion': 'entropy', 'max_depth': 3, 'min_samples_split': 2, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': True, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 0.0010099524401759926
+[run_experiment] Getting model
+[main] Accuracy: [0.20408163265306123]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 2, 'min_samples_split': 0.05, 'min_samples_leaf': 0.1, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.010326698775439163
+[run_experiment] Getting model
+[main] Accuracy: [0.9381598793363498]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 0.1, 'min_samples_leaf': 2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'robust', 'wfo': False, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.01669673916993036
+[run_experiment] Getting model
+[main] Accuracy: [0.7838312829525482]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': None, 'min_samples_split': 2, 'min_samples_leaf': 0.05, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'standardize', 'wfo': True, 'smote': True, 'smooth': False, 'ultrasample': True}
+beta: 0.028293204902108134
+[run_experiment] Getting model
+[main] Accuracy: [0.8524046434494196]
+Config: {'learner_params': {'criterion': 'gini', 'max_depth': 3, 'min_samples_split': 0.2, 'min_samples_leaf': 0.2, 'max_features': 'sqrt'}, 'learner': 'dt', 'preprocessor': 'minmax', 'wfo': False, 'smote': False, 'smooth': False, 'ultrasample': False}
+beta: 29.033933261382593
+[run_experiment] Getting model
+[main] Accuracy: [0.0]
+Scores: [[0.9397590361445783], [0.9397590361445783], [0.9397590361445783], [0.8810289389067525], [0.9397590361445783], [0.9397590361445783], [0.9397590361445783], [0.9397590361445783], [0.9406392694063926], [0.6072186836518048], [0.39999999999999997], [0.326530612244898], [0.9397590361445783], [0.9397590361445783], [0.9397590361445783], [0.9280245022970903], [0.9397590361445783], [0.9397590361445783], [0.9397590361445783], [0.9381598793363498]]
+Median: 0.9397590361445783
+Time: 1034.328269958496
